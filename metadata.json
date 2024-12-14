@@ -5,6 +5,7 @@
     "image": "https://raw.githubusercontent.com/darkluigisol/solana-metadata/refs/heads/main/luigim.jpeg",
     "external_url": "https://darkluigisol.github.io",
     "social_links": {
-    "twitter": "https://twitter.com/darkluigisol",
-    "telegram": "https://t.me/mychannel"
+        "twitter": "https://twitter.com/darkluigisol",
+        "telegram": "https://t.me/mychannel"
+    }
 }
