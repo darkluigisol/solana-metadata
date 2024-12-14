@@ -1,7 +1,35 @@
 {
-  "name": "DARK LUIGI",
-  "symbol": "MANGIONE",
-  "description": "Because some men aren't looking for anything logical, like money. They can't be bought, bullied, reasoned, or negotiated with. Some men just want to watch the world burn",
-  "image": "https://raw.githubusercontent.com/darkluigisol/solana-metadata/refs/heads/main/luigim.jpeg",
-   "external_url": "https://darkluigisol.github.io/"
+    "name": "DarkLuigiTok",
+    "symbol": "DARKL2",
+    "description": "Because some men aren't looking for anything logical, like money. They can't be bought, bullied, reasoned, or negotiated with. Some men just want to watch the world burn",
+    "image": "https://raw.githubusercontent.com/darkluigisol/solana-metadata/refs/heads/main/luigim.jpeg",
+    "external_url": "https://darkluigisol.github.io",
+    "attributes": [
+        {
+            "trait_type": "Category",
+            "value": "Cryptocurrency"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/darkluigisol/solana-metadata/refs/heads/main/luigim.jpeg",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "links": {
+            "website": "https://darkluigisol.github.io",
+            "twitter": "https://x.com/darkluigisol",
+            "discord": "https://discord.gg/yourinvite",
+            "telegram": "https://t.me/+ocUzSAySVUcxNzdh",
+            "github": "https://github.com/darkluigisol"
+        },
+        "creators": [
+            {
+                "address": "YOUR_WALLET_ADDRESS",
+                "share": 100
+            }
+        ]
+    }
 }
